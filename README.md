@@ -8,8 +8,8 @@ Ever wanted to learn Angular quickly? Well, this repository should help. This re
 
 And if you're looking for a comprehensive guide to master Angular's new reactivity model, check out my book:
 
-<a href="https://www.amazon.com/dp/B0FF9LSHJN" target="_blank" style="margin-inline: auto; max-width: 500px; display: block; text-align: center;">
-  <img src="assets/images/mastering-angular-signals.png" style="max-width: 300px;">
+<a href="https://www.amazon.com/dp/B0FF9LSHJN" target="_blank" style="margin-inline: auto; max-width: 300px; display: block; text-align: center;">
+  <img src="assets/images/mastering-angular-signals.png" style="max-width: 250px;">
 </a>
 
 > From a Google-Awarded Expert, this is your definitive guide to ending state management headaches and building lightning-fast Angular applications.
